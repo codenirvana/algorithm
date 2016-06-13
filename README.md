@@ -1,5 +1,4 @@
 # algorithm
-> Implementation of basic algorithms
 
 * [Sorting](/sorting)
   * [Bubble](/sorting/bubble.c)
