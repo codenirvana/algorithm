@@ -2,6 +2,7 @@
 
 * [Sorting](/sorting)
   * [Bubble](/sorting/bubble.c)
+  * [Counting](/sorting/counting.c)
   * [Insertion](/sorting/insertion.c)
   * [Merge](/sorting/merge.c)
   * [Quick](/sorting/quick.c)
