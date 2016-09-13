@@ -6,6 +6,7 @@
   * [Insertion](/sorting/insertion.c)
   * [Merge](/sorting/merge.c)
   * [Quick](/sorting/quick.c)
+  * [Radix](/sorting/radix.c)
   * [Selection](/sorting/selection.c)
 * [Searching](/searching)
   * [Binary-recursive](/searching/binary-recursive.c)
